@@ -19,6 +19,7 @@ Sub-Industry-Level Analysis 🏢 → Deep dive into specific sectors within indu
 Geographical Breakdown 🗺️ → Employment changes by city.
 📊 Key Visualizations
 🔹 Top 10 Industries - A bar chart showing the industries with the highest employment changes.
+
 <img width="257" alt="EMSI_JobChange_UK employer " src="https://github.com/user-attachments/assets/d6948254-1121-4735-a2d3-8a06cd3bc7dd" />
 
 🔹 Top 10 Sub-Industries - A treemap visualization highlighting key sectors driving job transitions.
